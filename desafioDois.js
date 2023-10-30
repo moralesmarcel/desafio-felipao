@@ -27,3 +27,5 @@ var losesHero = 10;
 var result = calculateLevel(victoriesHero, losesHero);
 
 console.log(`O Herói tem um saldo de ${result.balanceVictories} e está no nível de ${result.level}`);
+
+fdgdf
