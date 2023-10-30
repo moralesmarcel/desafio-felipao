@@ -26,7 +26,7 @@ _"O Herói de nome **{nome}** está no nível de **{nivel}**"_
 #
 #
 
-## 2️⃣ Calculadora de partidas Rankeadas
+## 2️⃣ Calculadora de partidas Rankeadas (arquivo desafioDois.js)
 ### O Que deve ser utilizado:
 - Variáveis
 - Operadores
