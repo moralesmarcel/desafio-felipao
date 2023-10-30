@@ -1,18 +1,14 @@
-# 1️⃣ Desafio Classificador de nível de Herói
-Desafio da DIO proposto pelo Felipão
+# Desafios da DIO
 
-<div align="center">
-  <img height="380em" src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif"/>
-</div>
-</br>
+## 1️⃣ Desafio Classificador de nível de Herói (arquivo index.js) 
 
-## O Que deve ser utilizado:
+### O Que deve ser utilizado:
 - Variáveis
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
 
-## Objetivo
+### Objetivo
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 - Se XP for menor do que 1.000 = Ferro
 - Se XP for entre 1.001 e 2.000 = Bronze
@@ -23,6 +19,31 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for entre 9.001 e 10.000= Imortal
 - Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+### Saída
 Ao final deve se exibir uma mensagem:
 _"O Herói de nome **{nome}** está no nível de **{nivel}**"_
+
+#
+#
+
+## 2️⃣ Calculadora de partidas Rankeadas
+### O Que deve ser utilizado:
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
+
+### Objetivo:
+Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas), retornando alguma das mensagens abaixo:
+- Se vitórias for menor do que 10 = Ferro
+- Se vitórias for entre 11 e 20 = Bronze
+- Se vitórias for entre 21 e 50 = Prata
+- Se vitórias for entre 51 e 80 = Ouro
+- Se vitórias for entre 81 e 90 = Diamante
+- Se vitórias for entre 91 e 100= Lendário
+- Se vitórias for maior ou igual a 101 = Imortal
+
+### Saída
+Ao final deve se exibir uma mensagem:
+_"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"_
