@@ -51,7 +51,7 @@ _"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"_
 #
 #
 
-# 3️⃣ Escrevendo as classes de um Jogo
+# 3️⃣ Escrevendo as classes de um Jogo (arquivo desafioTres.js)
 ### O Que deve ser utilizado:
 - Variáveis
 - Operadores
