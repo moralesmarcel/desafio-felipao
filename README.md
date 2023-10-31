@@ -47,3 +47,37 @@ Crie uma função que recebe como parâmetro a quantidade de vitórias e derrota
 ### Saída
 Ao final deve se exibir uma mensagem:
 _"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"_
+
+#
+#
+
+# 3️⃣ Escrevendo as classes de um Jogo
+### O Que deve ser utilizado:
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
+- Classes e Objetos
+
+### Objetivo:
+Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+- nome
+- idade
+- tipo (ex: guerreiro, mago, monge, ninja )
+
+além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
+- exibir a mensagem: "o {tipo} atacou usando {ataque}")
+- aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
+- e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:<br>
+** se mago -> no ataque exibir (usou magia)<br>
+** se guerreiro -> no ataque exibir (usou espada)<br>
+** se monge -> no ataque exibir (usou artes marciais)<br>
+** se ninja -> no ataque exibir (usou shuriken)
+
+### Saída
+Ao final deve se exibir uma mensagem:
+- "o {tipo} atacou usando {ataque}"
+<br>
+  ex: mago atacou usando magia<br>
+  guerreiro atacou usando espada
